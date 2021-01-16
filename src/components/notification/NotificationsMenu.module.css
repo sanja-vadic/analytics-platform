@@ -1,0 +1,20 @@
+.notifications {
+   font-size: 25px !important;
+   color: var(--primary-oposite-color) !important;
+   margin-right: 10px !important;
+}
+
+.antDropdownMenu {
+   margin-top: 5px !important;
+   width: 330px;
+   color: var(--primary-oposite-color);
+}
+
+.notificationBadge  {
+   background: #1890FF !important;
+}
+
+.viewAllNotificationLink {
+   color: #1890FF;
+   font-family: "Montserrat", sans-serif;
+}

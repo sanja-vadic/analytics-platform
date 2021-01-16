@@ -1,0 +1,22 @@
+.metricHolder {
+   display: flex;
+   justify-content: space-between;
+   height: 60px;
+   align-items: center;
+}
+
+.metricHolder .metricValue {
+   font-size: 20pt;
+   font-weight: bold;
+   margin-left: 10px;
+}
+
+.metricHolder .metricPercentage {
+   font-size: 16pt;
+   font-weight: bold;
+   margin-right: 10px;
+}
+
+.graphContainer {
+   height: 310px;
+}

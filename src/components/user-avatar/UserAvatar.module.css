@@ -1,0 +1,33 @@
+.user {
+   font-size: 10px !important;
+   color: #606060 !important;
+}
+
+.antDropdownMenu {
+   margin-top: 10px !important;
+   width: 250px;
+}
+
+.userMenuContainer {
+   display: inline-flex;
+   height: var(--main-header-height);
+   margin-left: 10px;
+}
+
+.userInfo {
+   display: flex;
+   flex-direction: column;
+   gap: 15px;
+   height: 80px;
+   font-size: 11pt;
+   color: #999;
+}
+
+.userFullName, .userEmail  {
+   display: flex;
+   align-items: center;
+}
+
+.userNameText, .userEmailText {
+   margin-left: 15px;
+}

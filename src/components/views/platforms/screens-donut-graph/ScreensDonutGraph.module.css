@@ -1,0 +1,11 @@
+.content{
+   display: flex;
+   gap: 35px;
+  
+   width: 100%;
+   /* justify-content: center; */
+}
+
+.chartContainer{
+   width: 300px;
+}

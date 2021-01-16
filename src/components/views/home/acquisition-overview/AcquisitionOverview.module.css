@@ -1,0 +1,44 @@
+.acquisitionOverviewContainer {
+   display: flex;
+   flex-direction: column;
+   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 2px 1px -1px rgba(0, 0, 0, 0.12);
+   min-width: 650px;
+   min-height: 450px;
+   width: 650px;
+   height: 450px;
+   font-family: "Montserrat", sans-serif !important;
+   font-weight: bold;
+}
+
+.header {
+   display: flex;
+   align-items: center;
+   min-height: 30px;
+   border-bottom: 1px solid #eeeeee;
+   font-weight: bold;
+   font-size: 15px;
+}
+
+.header .headerTitle {
+   margin-left: 10px;
+}
+
+.graphContainer {
+   margin-top: 10px;
+   height: 370px;
+}
+
+.interval {
+   display: flex;
+   align-items: center;
+   min-height: 50px;
+   border-top: 1px solid #eeeeee;
+}
+
+.spinner {
+   display: flex !important;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 100%;
+}

@@ -1,0 +1,5 @@
+.sideMenuContainer {
+   height: 100vh;
+   width: 256px !important;
+   position: fixed;
+}

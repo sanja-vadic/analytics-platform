@@ -1,0 +1,28 @@
+.thresholdsContainer {
+   width: 800px;
+   background-color: var(--primary-color);
+   margin: 20px;
+}
+
+.autoComplete {
+   min-width: 250px;
+}
+
+.inputRow {
+   display: flex;
+   margin-bottom: 20px;
+   align-items: center;
+}
+
+.partSelectorContainer {
+   display: flex;
+   padding-bottom: 20px;
+}
+
+.viewInputErrorMessage  {
+   margin-left: 20px;
+}
+
+.partsSelect {
+   width: 250px;
+}

@@ -1,0 +1,33 @@
+.trackingCodeContainer {
+   display: flex;
+   height: 100vh;
+   background-color: var(--primary-color);
+}
+
+.steps {
+   height: 50px;
+   min-width: 700px;
+   max-width: 800px;
+}
+
+.codeView {
+   height: fit-content;
+   width: 570px;
+   min-width: 570px;
+   max-width: 570px;
+   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 2px 1px -1px rgba(0, 0, 0, 0.12);
+}
+
+.buttonHolder {
+   display: flex;
+   align-items: flex-end;
+   justify-content: flex-end;
+   margin-right: 20px;
+   margin-top: 40px;
+}
+
+.stepContainer {
+   width: 700px;
+   padding-left: 20px;
+   padding-top: 20px;
+}

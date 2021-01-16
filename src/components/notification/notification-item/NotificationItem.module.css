@@ -1,0 +1,53 @@
+.notificationItemContainer {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-items: center;
+  height: 100%;
+  font-size: 16pt;
+  font-family: "Montserrat", sans-serif;
+  gap: 20px;
+}
+
+.alertIcon {
+  color: #cf1322 !important;
+  margin-bottom: 3px;
+}
+
+.goalIcon {
+  color: #80c53a !important;
+}
+
+.menuItem {
+  height: var(--notification-item-height) !important;
+}
+
+.typeContainer {
+  display: flex;
+  align-items: center;
+}
+
+.textContainer {
+  width: 120px;
+}
+
+.titleContainer {
+  font-weight: bold;
+  font-size: 10pt;
+}
+
+.linkContainer {
+  color: #1890ff;
+  font-size: 10pt;
+}
+
+.descriptionContainer span {
+  display: block;
+  width: 150px;
+  word-wrap: break-word !important;
+}
+
+.descriptionContainer {
+  font-size: 10pt;
+  flex-wrap: wrap;
+}

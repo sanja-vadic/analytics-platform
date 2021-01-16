@@ -1,0 +1,42 @@
+.reportsCustomContainer {
+   display: flex;
+   flex-direction: column;
+   background-color: #ffffff;
+   margin-left: 20px;
+   margin-top: 20px;
+   margin-right: 20px;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.autoComplete {
+   width: 300px;
+}
+
+.printLabel {
+   margin-bottom: 10px;
+}
+
+.tagsHolder {
+   display: flex;
+   margin-top: 10px;
+   margin-bottom: 30px;
+}
+
+.viewsContainer {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   gap: 20px;
+   width: 1500px;
+}
+
+.contentHeader {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+.findViewContainer {
+   display: flex;
+   flex-direction: column;
+}

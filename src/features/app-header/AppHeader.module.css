@@ -1,0 +1,33 @@
+.headerStyle {
+   background-color: var(--primary-color) !important;
+   margin-bottom: 1px;
+   -webkit-box-shadow: 0px 1px 2px 0px var(--secondary-color) !important;
+   -moz-box-shadow: 0px 1px 2px 0px var(--secondary-color) !important;
+   box-shadow: 0px 1px 2px 0px var(--secondary-color) !important;
+   padding-right: 20px !important;
+   padding-left: 20px !important;
+   height: var(--main-header-height) !important;
+}
+
+.notifications {
+   font-size: "20px" !important;
+   margin-right: "10px" !important;
+}
+
+.antCol {
+   height: var(--main-header-height) !important;
+   line-height: var(--main-header-height) !important;
+}
+
+
+.userDropdown {
+}
+
+.autocompleteItem {
+   display: "flex";
+   padding-left: "20px";
+}
+
+.autocompleteItemLink {
+   color: var(--primary-font-color);
+}

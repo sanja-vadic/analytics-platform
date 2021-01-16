@@ -1,0 +1,14 @@
+.row {
+   display: flex;
+   flex-wrap: nowrap;
+   overflow-x: auto;
+   overflow-y: hidden;
+   margin-right: 20px;
+   margin-left: 20px;
+   margin-top: 10px;
+   padding-top: 10px;
+   padding-left: 2px;
+   padding-right: 2px;
+   padding-bottom: 10px;
+   gap: 20px;
+}

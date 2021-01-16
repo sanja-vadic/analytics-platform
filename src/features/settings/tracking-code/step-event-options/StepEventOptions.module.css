@@ -1,0 +1,41 @@
+.inputElementsContainer {
+   display: flex;
+   gap: 10px;
+   margin-top: 15px;
+   align-items: center;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.inputHolder {
+   width: 300px;
+}
+
+.input {
+   width: 300px;
+}
+
+.inputErrorMessage {
+   display: flex;
+}
+
+.tagsHolder {
+   display: flex;
+   gap: 8px;
+   flex-direction: column;
+   margin-top: 20px;
+}
+
+.tag {
+   width: fit-content;
+}
+
+.tagLabel {
+   padding-right: 10px;
+}
+
+.title {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 14pt;
+   display: flex;
+   padding-bottom: 25px;
+}

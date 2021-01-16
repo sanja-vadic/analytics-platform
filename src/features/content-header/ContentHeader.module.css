@@ -1,0 +1,19 @@
+.contentHeaderRow {
+   background-color: #ffffff;
+   height: 100px;
+}
+
+.rangePicker {
+   width: 220px;
+}
+
+.intervalSelect {
+   min-width: 120px;
+}
+
+.timePicker {
+   width: 60px;
+   padding: 0px !important;
+   margin: 0px !important;
+   margin-left: 10px !important;
+}

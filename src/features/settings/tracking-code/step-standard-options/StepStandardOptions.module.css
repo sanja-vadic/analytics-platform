@@ -1,0 +1,20 @@
+.selectAllCheckboxContainer {
+   border-bottom: 1px solid var(--secondary-color);
+   padding-bottom: 5px;
+   margin-right: 20px;
+}
+
+.checkBoxItem {
+   margin-bottom: 7px;
+}
+
+.questionIcon {
+   color: var(--primary-oposite-color);
+}
+
+.title {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 14pt;
+   display: flex;
+   padding-bottom: 25px;
+}

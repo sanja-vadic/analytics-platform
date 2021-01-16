@@ -1,0 +1,11 @@
+.sider {
+   width: 256px !important;
+}
+
+.sideMenu {
+   background-color: var(--primary-color) !important;
+}
+
+.content {
+   background-color: var(--primary-color) !important;
+}

@@ -1,0 +1,59 @@
+.userSiteContainer {
+   display: flex;
+   flex-direction: column;
+   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 2px 1px -1px rgba(0, 0, 0, 0.12);
+   font-family: "Montserrat", sans-serif;
+
+   height: 180px;
+   min-width: 300px;
+   background-color: #ffffff;
+   color: #333;
+}
+
+.header {
+   display: flex;
+   align-items: center;
+   min-height: 30px;
+   border-bottom: 1px solid #eeeeee;
+   font-weight: bold;
+   font-size: 15px;
+}
+
+.header .headerDomain {
+   margin-left: 10px;
+}
+
+.metricHolder {
+   display: flex;
+   justify-content: space-between;
+   height: 60px;
+   align-items: center;
+}
+
+.metricHolder .metricValue {
+   font-size: 20pt;
+   font-weight: bold;
+   margin-left: 10px;
+}
+
+.metricHolder .metricPercentage {
+   font-size: 16pt;
+   font-weight: bold;
+   margin-right: 10px;
+}
+
+.graphContainer {
+   height: 110px;
+}
+
+.myStatistic {
+   font-family: "Montserrat", sans-serif !important;
+}
+
+.spinner {
+   display: flex !important;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 180px;
+}

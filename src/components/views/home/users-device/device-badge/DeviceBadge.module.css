@@ -1,0 +1,36 @@
+.badgeContainer {
+   display: flex;
+   flex-direction: row;
+   width: 150px;
+   margin-left: 40px;
+}
+
+.iconContainer {
+   display: flex;
+   flex-direction: column;
+   width: 50%;
+   align-items: center;
+   justify-content: center;
+}
+
+.metrics {
+   display: flex;
+   flex-direction: column;
+   width: 50%;
+   align-items: flex-start;
+   margin-left: 10px;
+}
+
+.title {
+   font-size: 8pt;
+   color: #999;
+}
+
+
+.icon {
+   font-size: 20pt;
+}
+
+.percentage {
+   font-size: 16pt;
+}

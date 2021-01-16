@@ -1,0 +1,29 @@
+.content{
+   display: flex;
+   flex-direction: row;
+}
+
+.lineCharts {
+   display: flex;
+   flex-direction: column;
+   gap: 40px;
+   margin-left: 150px;
+}
+
+.lineChartElement {
+   display: flex;
+   flex-direction: column;
+   font-size: 10pt;
+}
+
+.visitsGaugeContainer {
+   display: flex;
+   flex-wrap: nowrap;
+   overflow-x: auto;
+   overflow-y: hidden;
+   padding-top: 10px;
+   padding-left: 2px;
+   padding-right: 2px;
+   padding-bottom: 10px;
+   gap: 20px;
+}

@@ -1,0 +1,6 @@
+.app-statistic .ant-statistic-content {
+   font-family: "Montserrat", sans-serif !important;
+   display: flex;
+   flex-direction: row !important;
+   align-items: baseline;
+}

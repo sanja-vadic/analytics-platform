@@ -1,0 +1,58 @@
+.reportsContainer {
+   display: flex;
+   flex-direction: column;
+   background-color: #ffffff;
+   margin-left: 20px;
+   margin-top: 20px;
+   margin-right: 20px;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.tagsHolder {
+   display: flex;
+   margin-top: 10px;
+   margin-bottom: 30px;
+}
+
+.header {
+   display: flex;
+   justify-content: space-between;
+}
+
+.views {
+   display: flex;
+   flex-direction: row;
+   gap: 20px;
+   flex-wrap: wrap;
+   padding-left: 20px;
+   padding-bottom: 20px;
+   max-width: 1420px;
+   min-width: 700px;
+   width: 1420px;
+   background-color: #fafafa;
+   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 2px 1px -1px rgba(0, 0, 0, 0.12);
+}
+
+.findViewContainer {
+   display: flex;
+   align-items: center;
+}
+
+.autoComplete {
+   width: 300px;
+}
+
+.printLabel {
+   margin-bottom: 10px;
+}
+
+.noDataLabel {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 100%;
+}
+
+.inputErrorMessage {
+   margin-left: 20px;
+}

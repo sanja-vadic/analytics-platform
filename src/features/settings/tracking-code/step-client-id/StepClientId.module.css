@@ -1,0 +1,26 @@
+.stepClientIdContainer {
+   font-family: 'Montserrat', sans-serif;
+}
+
+.clientIdLabel {
+   font-size: 14pt;
+}
+
+.clientId {
+   composes: clientIdLabel;
+   font-weight: bold;
+   margin-left: 10px;
+}
+
+.description {
+
+}
+
+.detailedDescriptionContainer {
+   width: 90%;
+   color: var(--secondary-font-color);
+}
+
+.bold {
+   font-weight: bold;
+}
